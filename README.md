@@ -1,4 +1,7 @@
-# Langton-s-ant
-Langton's ant written in Python with turtle graphic interface
+# Langton's ant.py
 
-  https://en.wikipedia.org/wiki/Langton%27s_ant
+Langton's ant simulation written in Python using turtle graphic interface
+
+Since it runs forever, if you want to stop it simply close the window.
+
+- https://en.wikipedia.org/wiki/Langton%27s_ant
